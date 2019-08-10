@@ -34,7 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+<<<<<<< HEAD
 
 # Packages
 Assets/Photon
 Assets/Plugins
+=======
+>>>>>>> 41df8ef82f300d61f9d850c5c2bb4f1b2e9f237b
